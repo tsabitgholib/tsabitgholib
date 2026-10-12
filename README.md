@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m building backend systems, REST APIs, and internal applications using Java Spring Boot, Laravel, CI4, Express SQL Server, MySQL, PostgreeSql.
-🔭 I’m building frontend website and desktop use laravel, CI4, ReactJs and electron
-👯 I’m open to collaborating on backend development, API engineering, database optimization, and system design.
-🤝 I’m interested in scalable architecture, high-performance systems, and reliable backend engineering practices.
-🛠️ Tech stack: Laravel, CI, Java Spring Boot, Node.js, NestJS, Express, SQL Server, MySQL, PostgreeSql and Docker.
-💬 Ask me about backend development, REST APIs, SQL optimization, debugging, database design, and system integration.
+🔭 I build backend systems, REST APIs, and internal applications using Java Spring Boot, Laravel, CI4, Express.js, SQL Server, MySQL, and PostgreSQL.<br>
+💻 I develop web and desktop applications using Laravel, CI4, React.js, and Electron.<br>
+👯 I’m open to collaborating on backend development, API engineering, database optimization, and system design.<br>
+🤝 I’m interested in scalable architecture, high-performance systems, and reliable backend engineering practices.<br>
+🛠️ Tech Stack: Laravel, CodeIgniter, Java Spring Boot, Node.js, NestJS, Express.js, React.js, Electron, SQL Server, MySQL, PostgreSQL, and Docker.<br>
+💬 Ask me about backend development, REST APIs, SQL optimization, debugging, database design, and system integration.<br>
 ⚡ Fun fact: I learn best by solving real-world production issues and turning complex problems into practical, maintainable solutions.
 
 
