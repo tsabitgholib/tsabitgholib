@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on backend systems (APIs, transaction handling, and internal tools)<br>👯 I’m looking to collaborate on backend projects, system design, or API development<br>🤝 I’m looking for help with scalable architecture and advanced backend best practices<br>🌱 I’m currently learning Spring Boot, Node.js, NestJS, and asynchronous programming<br>💬 Ask me about backend development, debugging, SQL optimization, and API design<br>⚡ Fun fact: I learn faster by fixing real production bugs than by reading documentation
+🔭 I’m building backend systems, REST APIs, and internal applications using Java Spring Boot, Laravel, CI4, Express SQL Server, MySQL, PostgreeSql.
+🔭 I’m building frontend website and desktop use laravel, CI4, ReactJs and electron
+👯 I’m open to collaborating on backend development, API engineering, database optimization, and system design.
+🤝 I’m interested in scalable architecture, high-performance systems, and reliable backend engineering practices.
+🛠️ Tech stack: Laravel, CI, Java Spring Boot, Node.js, NestJS, Express, SQL Server, MySQL, PostgreeSql and Docker.
+💬 Ask me about backend development, REST APIs, SQL optimization, debugging, database design, and system integration.
+⚡ Fun fact: I learn best by solving real-world production issues and turning complex problems into practical, maintainable solutions.
 
 
 ## 🌐 Socials:
